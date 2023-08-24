@@ -1,0 +1,31 @@
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/bin/Debug/net7.0/appsettings.Development.json
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/bin/Debug/net7.0/appsettings.json
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/bin/Debug/net7.0/demo ASP.NET Core.staticwebassets.runtime.json
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/bin/Debug/net7.0/demo ASP.NET Core
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/bin/Debug/net7.0/demo ASP.NET Core.deps.json
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/bin/Debug/net7.0/demo ASP.NET Core.runtimeconfig.json
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/bin/Debug/net7.0/demo ASP.NET Core.dll
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/bin/Debug/net7.0/demo ASP.NET Core.pdb
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/demo ASP.NET Core.csproj.AssemblyReference.cache
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/demo ASP.NET Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/demo ASP.NET Core.AssemblyInfoInputs.cache
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/demo ASP.NET Core.AssemblyInfo.cs
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/demo ASP.NET Core.csproj.CoreCompileInputs.cache
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/demo ASP.NET Core.MvcApplicationPartsAssemblyInfo.cache
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/demo ASP.NET Core.RazorAssemblyInfo.cache
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/demo ASP.NET Core.RazorAssemblyInfo.cs
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/staticwebassets/msbuild.demo ASP.NET Core.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/staticwebassets/msbuild.build.demo ASP.NET Core.props
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.demo ASP.NET Core.props
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.demo ASP.NET Core.props
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/scopedcss/bundle/demo ASP.NET Core.styles.css
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/scopedcss/projectbundle/demo ASP.NET Core.bundle.scp.css
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/demo ASP.NET Core.dll
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/refint/demo ASP.NET Core.dll
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/demo ASP.NET Core.pdb
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/demo ASP.NET Core.genruntimeconfig.cache
+/Users/ishopjapan/Projects/demo ASP.NET Core/demo ASP.NET Core/obj/Debug/net7.0/ref/demo ASP.NET Core.dll
